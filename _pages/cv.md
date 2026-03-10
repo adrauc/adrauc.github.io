@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV]({{ '/files/pub/2025_rauchfleisch_telemat_inform.pdf'}})
+[Download CV]({{ '/files/cv.pdf'}})
 
-<iframe src="{{ '/files/pub/2025_rauchfleisch_telemat_inform.pdf'}}"
+<iframe src="{{ '/files/cv.pdf'}}"
         width="100%"
         height="1100px"
         style="border:none;">
