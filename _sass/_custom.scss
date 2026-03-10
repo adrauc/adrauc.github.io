@@ -43,8 +43,8 @@
 }
 
 .pill.is-active {
-  background: #0b5fff;
-  border-color: #0b5fff;
+  background: #4F6D8A;
+  border-color: #4F6D8A;
   color: #fff;
 }
 
@@ -146,8 +146,8 @@ body.dark-theme .pill:hover {
 html[data-theme="dark"] .pill.is-active,
 body.dark .pill.is-active,
 body.dark-theme .pill.is-active {
-  background: #0b5fff;
-  border-color: #0b5fff;
+  background: #5F7FA3;
+  border-color: #5F7FA3;
   color: #fff;
 }
 
@@ -191,17 +191,10 @@ body.dark-theme .pub-icons a:hover {
    Smaller typography only on publications page
 =============================================== */
 
+/* Smaller typography only on publications page */
+
 body.publications-page .page__content {
   font-size: 0.9rem;
-}
-
-body.publications-page .masthead,
-body.publications-page .greedy-nav,
-body.publications-page .greedy-nav a,
-body.publications-page .masthead__menu-item a,
-body.publications-page .site-title,
-body.publications-page .site-title a {
-  font-size: 0.88rem;
 }
 
 body.publications-page .filter-label {
@@ -245,4 +238,27 @@ body.publications-page .pub-icons a {
     column-gap: 0.75rem;
     margin-bottom: 1.3rem;
   }
+}
+
+
+/* Featured articles slightly smaller */
+
+.page__content h1 + ul {
+  font-size: 0.85rem;
+  line-height: 1.45;
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.page__content h1 + ul li {
+  margin-bottom: 0.6rem;
+}
+
+
+/* emphasize author bio */
+
+.author__content .author__bio {
+  font-size: 0.825rem;
+  line-height: 1.5;
+  font-weight: 500;
 }

@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Adrian Rauchfleisch"
 title_separator          : "-"
 name                     : &name "Adrian Rauchfleisch"
@@ -26,7 +26,7 @@ author:
   avatar           : "cover_img.png"
   name             : # Name
   pronouns         : # example: "she/her"  
-  bio              : "Professor at National Taiwan University"
+  bio              : "Professor,<br>National Taiwan University"
   location         : "Taipei, Taiwan"
   employer         : # Employer
   uri              : "http://www.journalism.ntu.edu.tw/RauchfleischA.html"
