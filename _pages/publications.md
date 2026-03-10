@@ -46,6 +46,7 @@ document.addEventListener("DOMContentLoaded", function () {
     <button type="button" class="pill" data-value="Cross-national">Cross-national</button>
     <button type="button" class="pill" data-value="US">US</button>
     <button type="button" class="pill" data-value="Taiwan">Taiwan</button>
+    <button type="button" class="pill" data-value="China">China</button>
     <button type="button" class="pill" data-value="Switzerland">Switzerland</button>
     <button type="button" class="pill" data-value="Germany">Germany</button>
   </div>

@@ -24,12 +24,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "cover_img.png"
-  name             : ""
+  name             : # Name
   pronouns         : # example: "she/her"  
   bio              : "Professor at National Taiwan University"
   location         : "Taipei, Taiwan"
   employer         : # Employer
-  uri              : # URL
+  uri              : "http://www.journalism.ntu.edu.tw/RauchfleischA.html"
   email            : "adrian@ntu.edu.tw" 
 
   # Academic websites
@@ -74,7 +74,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "OuzhouAdi"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
