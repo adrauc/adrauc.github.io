@@ -11,11 +11,13 @@ Adrian Rauchfleisch is a Professor at the [Graduate Institute of Journalism](htt
 
 His research interests include social media, journalism studies, political communication, methods for communication science, and social network analysis. 
 
+In 2026, he received the [Outstanding Research Award](https://www.nstc.gov.tw/folksonomy/list/e6dfdec1-61a9-4fb0-a903-25edbf38422e?l=ch&fbclid=IwY2xjawQecnpleHRuA2FlbQIxMABicmlkETFZcXRHMGFGS1hCQmtUdWtEc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtf_aOIFFFmSF8QzaLorYNCr1ul0TIiNFuG69-84Ed_NxtHura8t6ZYwnPBO_aem_9uheTvCfnGSDwnJBFoAWXw) from the National Science and Technology Council, Taiwan.
+
 His work has been published in _Political Communication_, _New Media & Society_, _Social Media + Society_, _Digital Journalism_, _Communication Research_, _Government Information Quarterly_, _Telematics and Informatics_, _Information, Communication & Society_, among other outlets.
 
-He is an editorial board member of _New Media & Society_, _Communication Theory_, _The International Journal of Press/Politics_, and _Journal of Quantitative Description: Digital Media_.
+He is an associate editor of _EPJ Data Science_ and serves on the editorial boards of _New Media & Society_, _Communication Theory_, _The International Journal of Press/Politics_, and _Journal of Quantitative Description: Digital Media_.
 
-He received his Ph.D. and M.A. from the University of Zurich.
+He received his B.A., M.A., and Ph.D. from the University of Zurich.
 
 ## Featured articles
 * Andreas Jungherr, <span class="pi-name">Adrian Rauchfleisch</span>, and Alexander Wuttke (2026). [Artificial intelligence in election campaigns: Perceptions, penalties, and implications](https://doi.org/10.1080/10584609.2025.2611913). _Political Communication_.
