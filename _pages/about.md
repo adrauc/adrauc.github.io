@@ -13,6 +13,8 @@ His research focuses on politics, technology, and journalism across Asia, Europe
 
 In 2026, he received the [Outstanding Research Award](https://www.nstc.gov.tw/folksonomy/list/e6dfdec1-61a9-4fb0-a903-25edbf38422e?l=ch&fbclid=IwY2xjawQecnpleHRuA2FlbQIxMABicmlkETFZcXRHMGFGS1hCQmtUdWtEc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtf_aOIFFFmSF8QzaLorYNCr1ul0TIiNFuG69-84Ed_NxtHura8t6ZYwnPBO_aem_9uheTvCfnGSDwnJBFoAWXw) from the National Science and Technology Council, Taiwan.
 
+He is currently Principal Investigator of the National Science and Technology Council’s International Outstanding Young Scholars project (國際年輕傑出學者研究計畫), _Global Perspectives on AI: Assessing Public Discourse, Opinion, and Big Tech’s Role_.
+
 His work has been published in _Political Communication_, _New Media & Society_, _Social Media + Society_, _Digital Journalism_, _Communication Research_, _Government Information Quarterly_, _Telematics and Informatics_, _Information, Communication & Society_, among other outlets.
 
 He is an Associate Editor of _EPJ Data Science_ and serves on the editorial boards of _New Media & Society_, _Communication Theory_, _The International Journal of Press/Politics_, and _Journal of Quantitative Description: Digital Media_.
