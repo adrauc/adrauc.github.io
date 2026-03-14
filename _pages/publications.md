@@ -32,10 +32,11 @@ document.addEventListener("DOMContentLoaded", function () {
   <div class="filter-group" data-filter-group="method">
     <button type="button" class="pill is-active" data-value="all">All</button>
     <button type="button" class="pill" data-value="Experiment">Experiment</button>
-    <button type="button" class="pill" data-value="Statistical modelling">Statistical modelling</button>
+    <button type="button" class="pill" data-value="Social Network Analysis">Social Network Analysis</button>
     <button type="button" class="pill" data-value="Text Analysis">Text Analysis</button>
     <button type="button" class="pill" data-value="Survey Data">Survey Data</button>
     <button type="button" class="pill" data-value="Platform Data">Platform Data</button>
+    <button type="button" class="pill" data-value="Theory">Theory</button>
   </div>
 </div>
 
