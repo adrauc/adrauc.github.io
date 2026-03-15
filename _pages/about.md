@@ -21,7 +21,7 @@ I am an associate editor of _EPJ Data Science_  and serve on the editorial board
 
 I received my B.A., M.A., and Ph.D. from the University of Zurich.
 
-If you are interested in research collaboration or supervision, feel free to browse my /publications/ and get in touch by email. Journalists looking for comment on any of my research areas are also welcome to reach out directly.
+If you are interested in research collaboration or supervision, feel free to browse my [publications](/publications/) and get in touch by email. Journalists looking for comment on any of my research areas are also welcome to reach out directly.
 
 ## Featured articles
 * Andreas Jungherr, <span class="pi-name">Adrian Rauchfleisch</span>, and Alexander Wuttke (2026). [Artificial intelligence in election campaigns: Perceptions, penalties, and implications](https://doi.org/10.1080/10584609.2025.2611913). _Political Communication_.
