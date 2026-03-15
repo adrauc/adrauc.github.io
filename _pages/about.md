@@ -11,7 +11,7 @@ Adrian Rauchfleisch is a Professor at the [Graduate Institute of Journalism](htt
 
 His research focuses on politics, technology, and journalism across Asia, Europe, and the United States. He studies how the internet, social media, platform algorithms, and artificial intelligence affect journalism, politics, and society.
 
-In 2026, he received the [Outstanding Research Award](https://www.nstc.gov.tw/folksonomy/list/e6dfdec1-61a9-4fb0-a903-25edbf38422e?l=ch&fbclid=IwY2xjawQecnpleHRuA2FlbQIxMABicmlkETFZcXRHMGFGS1hCQmtUdWtEc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtf_aOIFFFmSF8QzaLorYNCr1ul0TIiNFuG69-84Ed_NxtHura8t6ZYwnPBO_aem_9uheTvCfnGSDwnJBFoAWXw) from the National Science and Technology Council, Taiwan.
+In 2026, he received the [Outstanding Research Award](https://www.nstc.gov.tw/folksonomy/list/e6dfdec1-61a9-4fb0-a903-25edbf38422e?l=ch&fbclid=IwY2xjawQecnpleHRuA2FlbQIxMABicmlkETFZcXRHMGFGS1hCQmtUdWtEc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtf_aOIFFFmSF8QzaLorYNCr1ul0TIiNFuG69-84Ed_NxtHura8t6ZYwnPBO_aem_9uheTvCfnGSDwnJBFoAWXw) (傑出研究獎) from the National Science and Technology Council, Taiwan.
 
 He is currently Principal Investigator of the National Science and Technology Council’s International Outstanding Young Scholars project (國際年輕傑出學者研究計畫), _Global Perspectives on AI: Assessing Public Discourse, Opinion, and Big Tech’s Role_.
 
