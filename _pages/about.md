@@ -23,6 +23,17 @@ I received my B.A., M.A., and Ph.D. from the University of Zurich.
 
 If you are interested in research collaboration or supervision, feel free to browse my [publications](/publications/) and get in touch by email. Journalists looking for comment on any of my research areas are also welcome to reach out directly.
 
+## 中文簡介
+
+我是劉好迪（Adrian Rauchfleisch），現任國立臺灣大學新聞研究所特聘教授，於2026年榮獲國家科學及技術委員會（國科會）傑出研究獎。
+
+我的研究聚焦於政治傳播、數位科技與新聞學，涵蓋亞洲、歐洲及美國，主要探討網路、社群媒體、平台演算法及人工智慧（AI）對新聞媒體、政治與社會的影響。
+
+我目前主持國科會「國際年輕傑出學者研究計畫」，探討全球人工智慧相關的公共論述、民意及大型科技公司的角色。我於瑞士蘇黎世大學取得學士、碩士及博士學位。
+
+歡迎有興趣進行學術研究合作的學者、有意從事相關研究的學生，以及希望就相關議題進行採訪的媒體記者與我聯繫。
+
+
 ## Featured articles
 * <span class="pi-name">Adrian Rauchfleisch</span> and Andreas Jungherr (2026). [Toward Meaningful Transparency for AI Chatbots: Disclosing Persuasive Intent Reduces Persuasion](https://arxiv.org/abs/2608.11794). _Working paper_.
 * <span class="pi-name">Adrian Rauchfleisch</span> and Andreas Jungherr (2026). [The politics of artificial intelligence alignment: Public reactions to AI moderation in the case of Google's Gemini](https://doi.org/10.1177/14614448261449271). _New Media & Society_.
